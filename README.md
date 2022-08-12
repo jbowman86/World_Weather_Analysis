@@ -9,8 +9,7 @@
 
 ## Overview
 
-After working on an app, beta testers requested a new feature be added to the markers that pop up after clicking on a pin and present a description of the weather.  The beta testers also wanted to be able to select potential travel destinations based on their desired minimum and maximum temperatures for a trip.   
-From there, four cities were chosen to create an itinerary map with pins and markers for the cities and nearby hotels.
+After working on an app, beta testers requested a new feature be added to the markers that pop up after clicking on a pin which will present a description of the location's weather.  The beta testers also wanted to be able to select potential travel destinations based on their desired minimum and maximum temperatures for a trip.  From there, four cities were chosen to create an itinerary map with pins and markers for the cities and nearby hotels.
 
 # Results
 
