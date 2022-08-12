@@ -22,7 +22,7 @@ Potential travel destinations fro beta testers:
 
 ## Create a Customer Travel Destinations Map
 
-After prompting the beta testers for their minimum and maximum temperature preferences, the data frame was cleaned for null hotel entries and empty rows.  Markers and pins were created for the remainder of the hotels.  The resulting travel destination mao is included below:
+After prompting the beta testers for their minimum and maximum temperature preferences, the data frame was cleaned for null hotel entries and empty rows.  Markers and pins were created for the remainder of the hotels.  The resulting travel destination map is included below:
 
 ![Pic 2](https://github.com/jbowman86/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
