@@ -2,7 +2,7 @@
 
 ## Main Objective
 
-1. Perform tasks using new Python libraries and modules including: Pandas, gmaps, requests, numpy, citipy
+1. Perform tasks using Python libraries and modules including: Pandas, gmaps, requests, numpy, citipy
 2. Retrieve and use weather data from an API "get" request.
 3. Create a Customer Travel Destination Map
 4. Create heatmaps, and add markers using the Google Maps API.
